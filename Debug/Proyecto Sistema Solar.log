@@ -1,0 +1,48 @@
+﻿Compilación iniciada a las 27/04/2017 14:03:27.
+     1>Proyecto "C:\Users\migue\Desktop\Graficas\Proyecto Sistema Solar\Proyecto Sistema Solar.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\migue\Desktop\Graficas\freeglut\include /I"C:\Users\migue\Desktop\Graficas\glew-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\star_data.h(2282): warning C4305: 'inicializando' : truncamiento de 'double' a 'float'
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(144): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(200): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(202): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(214): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(216): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(241): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(255): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(257): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(269): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(271): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(289): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(291): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(303): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(305): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(317): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(319): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(357): warning C4244: '=' : conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(358): warning C4244: '=' : conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(362): warning C4244: '=' : conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(366): warning C4244: '=' : conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(367): warning C4244: '=' : conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(372): warning C4805: '==' : combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(375): warning C4244: '=' : conversión de 'double' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(378): warning C4244: '=' : conversión de 'double' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(381): warning C4244: '=' : conversión de 'double' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(384): warning C4244: '=' : conversión de 'double' a 'GLint'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(386): warning C4244: '=' : conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(387): warning C4244: '=' : conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(390): warning C4805: '==' : combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(392): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(395): warning C4805: '==' : combinación no segura del tipo 'GLboolean' y el tipo 'bool' en la operación
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(397): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\migue\desktop\graficas\proyecto sistema solar\main.cpp(398): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\migue\Desktop\Graficas\Debug\Proyecto Sistema Solar.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\migue\Desktop\Graficas\glew-2.0.0\lib\Release\Win32" /LIBPATH:C:\Users\migue\Desktop\Graficas\freeglut\lib glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\migue\Desktop\Graficas\Debug\Proyecto Sistema Solar.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\migue\Desktop\Graficas\Debug\Proyecto Sistema Solar.lib" /MACHINE:X86 Debug\image_loader.obj
+         Debug\main.obj
+         Proyecto Sistema Solar.vcxproj -> C:\Users\migue\Desktop\Graficas\Debug\Proyecto Sistema Solar.exe
+     1>Compilación del proyecto terminada "C:\Users\migue\Desktop\Graficas\Proyecto Sistema Solar\Proyecto Sistema Solar.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.61
